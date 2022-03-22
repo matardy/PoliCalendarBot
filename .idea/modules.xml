@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PoliCalendarBot.iml" filepath="$PROJECT_DIR$/.idea/PoliCalendarBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PoliCalendarBot.iml" filepath="$PROJECT_DIR$/src/PoliCalendarBot.iml" />
     </modules>
   </component>
 </project>
